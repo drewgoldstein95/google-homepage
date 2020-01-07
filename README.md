@@ -1,0 +1,1 @@
+Initial project via The Odin Project to explore using HTML and CSS

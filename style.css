@@ -11,6 +11,31 @@ li{
     display: inline;
     padding-right: 10px;
 }
+input{
+    width: 25%;
+    background-image: url('noun_Search_15028.svg');
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+    height: 25px;
+    padding-left: 40px;
+}
+#buttons{
+    margin-top:10px;
+}
+.button{
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    margin-top: 50px;
+    padding: 2px 6px 2px 6px;
+    border-radius: 5px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
 #navbar{
     top:100px;
 }
